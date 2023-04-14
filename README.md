@@ -13,4 +13,4 @@
  ~~cd scratch-web~~
 
 
-~~ 打开"index.html"~~
+~~打开"index.html"~~
